@@ -5,4 +5,4 @@ Reddit의 r/depression의 게시글들을 텍스트 분석하였다. 크게 단�
 
 ### File description
 
-depression_text_analysis.ipynb :  Jupyter notebook used for this project.  
+• depression_text_analysis.ipynb :  Jupyter notebook used for this project.  
